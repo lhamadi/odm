@@ -1,0 +1,43 @@
+clientId;interactionId;interactionDate;moteurId
+Mme Papin;PEL;2019-05-22;OAP
+Mme Papin;Esprit Libre 18-24 ans;2019-05-22;OAP
+Mme Papin;Livret Jeune;2019-05-22;OAP
+Mme Papin;Mobileo;2019-05-22;OAP
+Mme Papin;KYC;2019-05-22;PE
+Mme Papin;Esprit Libre 18-24 ans;2019-05-22;PE
+Mme Papin;PE Mobileo + Assurance scolaire;2019-05-22;PE
+Mr Nouveau proprietaire;Assurance prét immobilier;2019-05-22;OAP
+Mr Nouveau proprietaire;Mobileo;2019-05-22;OAP
+Mr Nouveau proprietaire;Crédit Immobilier;2019-05-22;PE
+Mr Contestation Frais;LLD;2019-05-22;OAP
+Mr Contestation Frais;CEL;2019-05-22;OAP
+Mr Contestation Frais;CEL;2019-05-22;PE
+Mr Contestation Frais;PEA;2019-05-22;PE
+Mr retraite sans reclamation;Prevoyance obseques;2019-05-22;OAP
+Mr retraite sans reclamation;Protection familiale;2019-05-22;OAP
+Mr retraite sans reclamation;Prevoyance obseques;2019-05-22;PE
+Mr retraite sans reclamation;Protection accidents de la vie;2019-05-22;PE
+Mme sans reclamation;Crédit Immobilier;2019-05-22;OAP
+Mme sans reclamation;PEA;2019-05-22;OAP
+Mme sans reclamation;LLD;2019-05-22;PE
+Mme sans reclamation;CEL;2019-05-22;PE
+Mme Depense de sante;Prét regroupement de crédit;2019-05-22;OAP
+Mme Depense de sante;Livret A Baby;2019-05-22;OAP
+Mme Depense de sante;Prét baby;2019-05-22;PE
+Mme Depense de sante;Livret A Baby;2019-05-22;PE
+Mr Auto entrepreneur;PRE CREA;2019-05-22;OAP
+Mr Auto entrepreneur;Esprit libre pro;2019-05-22;OAP
+Mr Auto entrepreneur;Programme Accompagnement;2019-05-22;PE
+Mr Auto entrepreneur;PRE CREA;2019-05-22;PE
+Mme Ado;Livret A;2019-05-22;OAP
+Mme Ado;Esprit libre decouverte;2019-05-22;OAP
+Mme Ado;Livret A;2019-05-22;PE
+Mme Ado;PEL;2019-05-22;PE
+Mr Reclamation Debit;Relevé en ligne;2019-05-22;OAP
+Mr Reclamation Debit;CEL;2019-05-22;OAP
+Mr Reclamation Debit;CEL;2019-05-22;PE
+Mr Reclamation Debit;PEL;2019-05-22;PE
+Mr Imprevu Sinitre;Assurance Habitation;2019-05-22;OAP
+Mr Imprevu Sinitre;Prét Travaux;2019-05-22;OAP
+Mr Imprevu Sinitre;Protection Habitat télésurveillance;2019-05-22;PE
+Mr Imprevu Sinitre;CEL;2019-05-22;PE

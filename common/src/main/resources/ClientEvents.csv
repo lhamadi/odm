@@ -1,0 +1,8 @@
+clientId;name;subject;startDate;endDate;status;category
+Mme Papin;réclamation;problème pour augmenter son plafond de paiement, en autonomie sur le net;2019-05-10;2019-05-11;cloturé;client
+Mr Nouveau proprietaire;réclamation;renégociation de crédit;2019-05-10;2019-05-10;en cours;client
+Mr Contestation Frais;réclamation;Contestation des frais;2019-05-10;2019-05-10;en cours;client
+Mme Depense de sante;imprévus;Dépenses de santé;2019-05-20;2019-05-20;cloturé;client
+Mr Reclamation Debit;réclamation;erreur de débit;2019-05-15;2019-05-20;cloturé;client
+Mr Imprevu Sinitre;imprévus;Déclaration de sinistre;2019-03-12;2019-05-20;en cours;client
+Mr Imprevu Sinitre;réclamation;erreur de débit;2019-05-15;2019-05-20;cloturé;client

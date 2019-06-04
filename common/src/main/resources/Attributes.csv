@@ -1,0 +1,22 @@
+clientId;name;dataType;value
+Mme Papin;age;Integer;18
+Mme Papin;CSP;String;etudiante
+Mr Nouveau proprietaire;age;Integer;26
+Mr Nouveau proprietaire;CSP;String;employe
+Mr Nouveau proprietaire;Situation logement;String;achat
+Mr Contestation Frais;age;Integer;30
+Mr Contestation Frais;CSP;String;cadre
+Mr retraite sans reclamation;age;Integer;65
+Mr retraite sans reclamation;CSP;String;retraite
+Mme sans reclamation;age;Integer;30
+Mme sans reclamation;CSP;String;cadre
+Mme Depense de sante;age;Integer;34
+Mme Depense de sante;CSP;String;cadre
+Mr Auto entrepreneur;age;Integer;27
+Mr Auto entrepreneur;CSP;String;cadre
+Mme Ado;age;Integer;16
+Mme Ado;CSP;String;etudiante
+Mr Reclamation Debit;age;Integer;36
+Mr Reclamation Debit;CSP;String;cadre
+Mr Imprevu Sinitre;age;Integer;45
+Mr Imprevu Sinitre;CSP;String;employe
